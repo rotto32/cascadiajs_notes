@@ -45,7 +45,6 @@ People from as far away as Amsterdam here.
 #### Subjects: Hardware hacking, Serial Port, Johnny Five, Tressel
 #### TLDR: Wrote progjs to make electronic toy move when webpack build fails
 #### Links: 
-github.com/dkundel/porgjs \
 https://github.com/dkundel/porgjs
 #### Notes:
 Destiny of hardware - obsolete
@@ -206,6 +205,7 @@ ____
 #### TLDR: Gatsby is an easy and performant way of building sites
 #### Links:
 https://www.dslemay.com/
+https://www.mlssoccer.com/
 #### Notes:
 Dev at Phase2
 
@@ -242,7 +242,7 @@ tiny.cc/slack-intro
 #### Notes:
 Senior front end engineer at Slack.
 
-Slack was launched in 2014 with Handlebars and Smarty, jQuery, nultiple process for workspaces (ie more CPU usage for more workspaces).
+Slack was launched in 2014 with Handlebars and Smarty, jQuery, multiple process for workspaces (ie more CPU usage for more workspaces).
 
 2017 migrated to React.
 
@@ -276,7 +276,7 @@ Optimizations
   certain calls block boot and need to be done before app can load \
   More strategic about API calls
   Originally there were 3 calls before the app is completely booted and there were non-blocking calls happenign between blocking calls \
-  Updated to have the high-priority calls first and only calling thing that were absolutely necessary. And called them in parallel with initial JS \
+  Updated to have the high-priority calls first and only calling thing that were absolutely necessary. And called them in parallel with initial JS 
 
   Takeaways: Load less code upfront, small boot payload, code splitting to allow having JS in small bundles that could be paralized, use SW to cache \
   Fetch data on demand, lower memory storage\
@@ -289,7 +289,7 @@ ____
 ## Talk 8
 ## Accessibility is a Hydra
 ### Speaker: EJ Mason (they/them) @codeability
-### Subjects: Accessibility, abliesm, Social justice
+### Subjects: Accessibility, ableism, Social justice
 #### TLDR: Websites continue to have acessibility problems because society is ableist
 #### Links:
 Tatiana Mac - Systems of Systems \
@@ -304,13 +304,11 @@ WCAG is the accessibility guideline written by W3C
 Kinds of issues seen before:
 using onclick event handle on span - unclear to non-mouse users => turn span to button and allows screen readers and keyboard users
 
-overuse of large blocks of texts - hard to to navigat => use headings in addition
+overuse of large blocks of texts - hard to to navigate => use headings in addition
 
 The problem was that EJ would see the same problems over and over again even after solving them the first time
 
-The reason that this keeps happening is because we are solving problems in a way that allows these problems to persist. We often tell stories where the ppl that the stories are about are not involved in the telling of the stories.
-
-Representation matters.
+The reason that this keeps happening is because we are solving problems in a way that allows these problems to persist. We often tell stories where the ppl that the stories are about are not involved in the telling of the stories - Representation matters.
 
 It is important that the people who build websites have an eye towards not only making websites more accessibility, but also work to dismantle ableism
 
