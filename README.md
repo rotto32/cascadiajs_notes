@@ -60,7 +60,7 @@ API Options \
 Example: setup light to tell if roommate was on Twitch so he could be quiet
 
 2. Tethered Node ports \
-Serial Port and Johnny 5, but you have to be tethered to a host machine. And the machine needs to be capable of running NOdeJA. BUt the code is super user friendly.\
+Serial Port and Johnny 5, but you have to be tethered to a host machine. And the machine needs to be capable of running NodeJS. But the code is super user friendly.\
 To get around the issue with having to be connected to a machine, and used a porg toy that moves to move when a build fails \
 LEDs are the console.log of hardware \
 example: porgjs creates a port to the hardware \
@@ -125,8 +125,8 @@ Slalom, Bootcamp grad
 GraphQL -  query language for APIS, by Facebook, replacement/compliment to REST APIs
 very popular, lots of tools for GraphQL, Apollo, AppSync, etc \
 Why build with GraphQL? -
-Reduces # of calls to network. Limit over and underfecthing b/c its more specific. Makes calls quicker & more efficient, and get a lot of control over your data \
-GraphQL is optimized for reads, and can expose GraphQl on existing infrastructure, can use on momlithic and serverless architecture \
+Reduces # of calls to network. Limit over and underfetching b/c its more specific. Makes calls quicker & more efficient, and get a lot of control over your data \
+GraphQL is optimized for reads, and can expose GraphQL on existing infrastructure, can use on monolithic and serverless architecture \
 Example: Card Monkey - serverless, graphql, netlify (good way to expose yourself to lambda functions). Used REST for post, put and delete, but graphql for get. \
 
 Call to action: do personal projects in structureless environment where you can make decisions and help you learn
@@ -137,7 +137,6 @@ ____
 ### Speaker: Brea Gaudioso (she/her) @breagaudioso
 ### Subjects: API, architecture, optimization
 #### TLDR: Use one user-facing layer to be consitent and make sure you version and doc it
-#### Links:
 #### Notes:
 Expert at consumer-facing APIs
 
@@ -158,7 +157,7 @@ Wnat your compostion layer to be super consistent and predictable, so that it is
   -> SOAP, pagination, etc \
   Use versioning & be consistent, use a change log \
   DOCUMENTATION - API is only as good as the docs \
-  -> recomend open source documentation tool \
+  -> recommends open source documentation tool \
   -> treat documenation as part of dev process \
   -> developer sandbox tool \
   -> use examples \
@@ -174,7 +173,6 @@ ____
 ### Speaker: Tre Ammatuna (he/him) @tretuna
 ### Subjects: Caching in GraphQL
 #### TLDR: GraphQL, being flexible, is jsut more difficult to cache, but it is possible with libraries
-#### Links:
 #### Notes:
 frontend Leafly
 GraphQL - Uncachable? - No!
@@ -207,10 +205,11 @@ ____
 ### Subjects: Gatsby, Preformance
 #### TLDR: Gatsby is an easy and performant way of building sites
 #### Links:
-slideshow dsl.cx/gatsbythemes
+https://www.dslemay.com/
 #### Notes:
 Dev at Phase2
-Move from static HTML, handcoded
+
+Case study on soccer site move from static HTML, handcoded to Gatsby
 
 Gatsby - plugin framework that wraps around React for performance - takes care of code splitting and compiling, good plugin integration, very performant
 
@@ -439,7 +438,7 @@ Program manager for NodeJS on Azure at Microsoft and VS Code
 Predictions:
 1. Backend will own more frontend
     More demographics into the frontend of dev
-    Blazer - write C# and run in browser using WebAssembly (ppl excited about WebAssembly). Blazer runs almost entirely on the server or on the client depending on your needs. \
+    Blazer - write C# and run in browser using WebAssembly (ppl excited about WebAssembly)Blazer runs almost entirely on the server or on the client depending on your needs. \
     Brian expects that there will more more languages in the front end besides JS \
     Some considerations on this:
     + JS is a really good front end language
@@ -470,11 +469,9 @@ Predictions:
     Note: Docker isn't scary, Kubernetes is scary
 
 
-Demo: VS code has functionality which will automatically spin up the dev container and open the VS Code in the container. It can also manage port mapping in the vs code GUI. Requires Docker & lots of memory, etc
+Demo: VS code has functionality which will automatically spin up the dev container and open the VS Code in the container. It can also manage port mapping in the vs code GUI. Requires Docker & lots of memory, etc 
 
 VS Studio online can spin up dev environment and then using the local installation of VS Code and you can be using the remote dev environment on any client that you want 
-
-Oooh ppl talking about Vagrant in past tense
 
 ____
 
