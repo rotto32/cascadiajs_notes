@@ -47,7 +47,7 @@ People from as far away as Amsterdam here.
 #### Links: 
 https://github.com/dkundel/porgjs
 #### Notes:
-Destiny of hardware - obsolete
+Destiny of hardware - obsolete \
 Hardware hacking isn't easy - require preparation, specialized tools and parts, more expensive than software, there's no undo
 
 1. API's & Protocols \
@@ -81,7 +81,7 @@ ____
 ## Controlling Drones with JS
 ### Speaker: Jasper Schulte (he/him) @zjaaspoer
 ### Subjects: Drones, hardware
-#### TLDR: How to of programming drones
+#### TLDR: How to of programming drones with JS
 #### Links:
 jaspershulte.nl 
 #### Notes:
@@ -126,7 +126,7 @@ very popular, lots of tools for GraphQL, Apollo, AppSync, etc \
 Why build with GraphQL? -
 Reduces # of calls to network. Limit over and underfetching b/c its more specific. Makes calls quicker & more efficient, and get a lot of control over your data \
 GraphQL is optimized for reads, and can expose GraphQL on existing infrastructure, can use on monolithic and serverless architecture \
-Example: Card Monkey - serverless, graphql, netlify (good way to expose yourself to lambda functions). Used REST for post, put and delete, but graphql for get. \
+Example: Card Monkey - serverless, graphql, netlify (good way to expose yourself to lambda functions). Used REST for post, put and delete, but graphql for get. 
 
 Call to action: do personal projects in structureless environment where you can make decisions and help you learn
 ____
@@ -457,7 +457,7 @@ Predictions:
     Tools like Webflow \
     Increases productivity and accessibility \
     But it also means that web coding is getting more abstract \
-    We will also still need to have people to build those abstraction layers \
+    We will also still need to have people to build those abstraction layers 
 
 4. The future of codign tools
     Developing in containers \
