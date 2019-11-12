@@ -287,6 +287,8 @@ ____
 ### Subjects: Accessibility, abliesm, Social justice
 #### TLDR: Websites continue to have acessibility problems because society is ableist
 #### Links:
+Tatiana Mac - Systems of Systems \
+Vilissa Thompson 
 #### Notes:
 Sr software dev at Webflow
 
@@ -309,10 +311,6 @@ It is important that the people who build websites have an eye towards not only 
 
 Listen to more people with disabilities, work towards being anti-ableist (work towards making more things in life accessible and commiting to work towards accessibility)
 
-Reference: Tatiana Mac - Systems of Systems
-Vilissa Thompson 
-
-
 
 ____
 
@@ -321,7 +319,6 @@ ____
 ### Speaker: Daria Caraway (she/her) @darcar31
 ### Subjects: React, DRY, reducing tech debt
 #### TLDR: When using libraries ensure that you're only using a single point of access to libraries
-#### Links:
 #### Notes:
 
 Software engineer at Workday
@@ -367,7 +364,7 @@ ____
 ## Machine Learning for Frontend Devs
 ### Speaker: Charlie Gerard (she/her) @devdevcharlie
 ### Subjects: Machine learning, front end dev
-#### TLDR:
+#### TLDR: Machine learning is available as a realatively easy-to-use tool for web developers to create innovative and time-saving applications.
 #### Links:
 https://teachablemachine.withgoogle.com/
 #### Notes:
@@ -426,7 +423,7 @@ ____
 ## Futuristic Code Bases
 ### Speaker: Brian Holt (he/him) @holtbt
 ### Subjects: WebAssembly, VS Code, Azure, Lambdas, Webflow
-#### TLDR:
+#### TLDR: Web development is getting more abstract and accessible for people of less traditional backgrounds, but still requires people w/ more 'traditional' skills to make those tools
 #### Links:
 aka.ms/vsfutures-signup
 #### Notes:
