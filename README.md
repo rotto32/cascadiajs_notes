@@ -88,9 +88,6 @@ jaspershulte.nl
 #### Notes:
 From Amsterdam, consulting w/ TripAdvisor
 
-<video width="320" height="240" controls>
-  <source src="./drone_dance.mov" type="video/mp4">
-</video>
 
 Process
 1. Choose the right drone \
