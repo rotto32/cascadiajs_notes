@@ -233,7 +233,12 @@ ____
 ### Subjects: React, Optimization, Architecture
 #### TLDR: Made slack 33% faster with loading less code, having less local data, and prioritizing API calls
 #### Links:
-samanthasiow.com
+samanthasiow.com \
+bit.ly/slack-rebuild/ \
+bit.ly/slack-gantry \
+bit.ly/slack-sw \
+bit.ly/slack-sonic \
+tiny.cc/slack-intro
 #### Notes:
 Senior front end engineer at Slack.
 
