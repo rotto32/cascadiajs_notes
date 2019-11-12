@@ -71,7 +71,7 @@ CONs: tethered to a host
 Run js on hardware - JerryScript lightweight -limited functionality, not beginner friendly \ 
 Espruino - JS processor(?) opensource, IDE, but doesn't work with Johnny5 \
 Neonius - supports Typescript and Node.js \ 
-Tessel - Node.js, JS, expensive
+Tessel - Node.js, JS, expensive \
 example: hacked a coffee machine - used Tessel
 
 
@@ -87,6 +87,10 @@ ____
 jaspershulte.nl 
 #### Notes:
 From Amsterdam, consulting w/ TripAdvisor
+
+<video width="320" height="240" controls>
+  <source src="./drone_dance.mov" type="video/mp4">
+</video>
 
 Process
 1. Choose the right drone \
