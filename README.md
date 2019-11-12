@@ -19,11 +19,7 @@
 ----
 
 ## Opening Comments
-Better talks today than yesterday. They have a live stream at 2019.cascadiajs.com/live.
-
-Carter Rabasa - one of lead organizers for CascadiaJS.
-
-(206) 260-1145 Code of Conduct bot, text "Hello" for a question.
+They have a live stream at 2019.cascadiajs.com/live.
 
 Tougo Coffee provides coffee. Locations in Central District, First Hill.
 
@@ -39,10 +35,7 @@ Number of Scholarship Recipients \
 2018 - 48 \
 2019 - 100 
 
-
-Wow there are ppl from Amsterdam here.
-
-Greg Bulmash - lol the trivia question was litereally what Ian and I were talking about last night
+People from as far away as Amsterdam here.
 
 ----
 
@@ -52,9 +45,9 @@ Greg Bulmash - lol the trivia question was litereally what Ian and I were talkin
 #### Subjects: Hardware hacking, Serial Port, Johnny Five, Tressel
 #### TLDR: Wrote progjs to make electronic toy move when webpack build fails
 #### Links: 
-github.com/dkundel/porgjs
+github.com/dkundel/porgjs \
+https://github.com/dkundel/porgjs
 #### Notes:
-Will tweet out slides later.
 Destiny of hardware - obsolete
 Hardware hacking isn't easy - require preparation, specialized tools and parts, more expensive than software, there's no undo
 
@@ -70,7 +63,6 @@ Example: setup light to tell if roommate was on Twitch so he could be quiet
 Serial Port and Johnny 5, but you have to be tethered to a host machine. And the machine needs to be capable of running NOdeJA. BUt the code is super user friendly.\
 To get around the issue with having to be connected to a machine, and used a porg toy that moves to move when a build fails \
 LEDs are the console.log of hardware \
-github.com/dkundel/porgjs \
 example: porgjs creates a port to the hardware \
 PROs: familiar tools, easy, hardware independent \
 CONs: tethered to a host
@@ -118,8 +110,6 @@ calculate relative position
 
 Controlling drones is hard b/c they don't have good sensory input, lots of external factor. Need your own feedback system (like mission pads)
 
-
-
 Hold a drone like feeding a horse
 ____
 
@@ -160,14 +150,14 @@ Wnat your compostion layer to be super consistent and predictable, so that it is
   Validation \
   Monitoring of use b/c of centralized point of entry \
   Centralized auth \
-  SIngle schema to integrate 
+  Single schema to integrate 
 
   Method: \
   Pick an architecture & parameters - Pick & stick \
   -> SOAP, pagination, etc \
   Use versioning & be consistent, use a change log \
   DOCUMENTATION - API is only as good as the docs \
-  -> recomemnd open source documentation tool \
+  -> recomend open source documentation tool \
   -> treat documenation as part of dev process \
   -> developer sandbox tool \
   -> use examples \
@@ -229,7 +219,7 @@ Using a theme - install a theme like a plugin.
 
 Plugins are basically used for all reusable code. 
 
-Gatsby theme can be an object or a function, so you  can pass in a key, for example, and it can insert into theme
+Gatsby theme can be an object or a function, so you can pass in a key, for example, and it can insert into theme
 
 Shared global providers - wraps entire application to provide different contexts depending on variables
 
@@ -300,8 +290,6 @@ ____
 #### Notes:
 Sr software dev at Webflow
 
-land acknowledgement
-
 The battle with the hydra is one of fighting the same thing over and over again
 
 WCAG is the accessibility guideline written by W3C 
@@ -336,7 +324,7 @@ ____
 #### Links:
 #### Notes:
 
-Software engineer at Workday in Boulder CO
+Software engineer at Workday
 
 Process of using a library 
 Everything is great -> using it everywhere -> dependent on it
@@ -388,7 +376,7 @@ Frontend dev at Atlassian, Google Dev expert and Mozilla Tech Speaker
 
 What is machine learning? - Giving the ability to computer to find patterns in data without being explicitly programmed. 
 
-You create models functions which are created with algorithms. You don't have to understand the math behind the algorithms, but knowing what they;re good for is useful.
+You create models functions which are created with algorithms. You don't have to understand the math behind the algorithms, but knowing what they're good for is useful.
 
 Looking at two types of machine leanring - supervised and unsupervised
 
